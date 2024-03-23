@@ -1,0 +1,21 @@
+.banner{
+    height: 60vh;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 10vh;
+    background-color: #ffe8c6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.banner-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.banner-header {
+    font-size: 100px;
+}

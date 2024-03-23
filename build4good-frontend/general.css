@@ -1,0 +1,31 @@
+p {
+    font-family: roboto;
+    margin: 0px;
+}
+
+.body{
+    padding: 0px;
+    font-family: roboto;
+}
+
+.button {
+    width: 10vw;
+    text-align: center;
+    padding: 15px;
+    margin-right: 20px;
+    border-radius: 75px;
+    border: 1px solid rgb(104, 104, 104);
+}
+
+.button:hover {
+    border: 2px solid rgb(104, 104, 104);
+    margin-right: 19px;
+    margin-left: -1px;
+    cursor: pointer;
+}
+
+.link {
+    font-family: roboto;
+    color: black;
+    text-decoration: none;
+}
